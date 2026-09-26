@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f09f1a1bdb75f4f8324e6a2820b49f, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: Assembly-CSharp::RoomRole
+  roleName: Start
+  Count: 1
+  minRoomWidth: 10
+  minRoomHeight: 10
+  maxRoomWidth: 20
+  maxRoomHeight: 20
+  CenterWeight: 0
+  EdgeWeight: 1
+  SizeWeight: 0
+  SizeWidth: 20
+  SizeHeight: 20
+  distanceConstraints: []
+  RoleWeight: 2.5
