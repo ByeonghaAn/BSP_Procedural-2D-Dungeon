@@ -54,4 +54,5 @@ Prim 알고리즘 기반 최소 신장 트리(MST)로 방의 기본 연결을 �
 
 ## 출처
 
-- 원본 코드 : [Sunny Valley Studio - Unity 2D Procedural Dungeon Tutorial](https://github.com/SunnyValleyStudio/Unity_2D_Procedural_Dungoen_Tutorial)
+- [Sunny Valley Studio - Unity 2D Procedural Dungeon Tutorial](https://github.com/SunnyValleyStudio/Unity_2D_Procedural_Dungoen_Tutorial)
+- https://pixel-poem.itch.io/dungeon-assetpuck
